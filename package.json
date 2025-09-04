@@ -15,7 +15,10 @@
     "@supabase/supabase-js": "^2.39.3",
     "lucide-react": "^0.263.1",
     "recharts": "^2.8.0",
-    "react-dropzone": "^14.2.3"
+    "react-dropzone": "^14.2.3",
+    "@stripe/stripe-js": "^2.4.0",
+    "react-hot-toast": "^2.4.1",
+    "clsx": "^2.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
